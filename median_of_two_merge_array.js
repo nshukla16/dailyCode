@@ -20,7 +20,7 @@ function Solution(arr, n)
        return ans;
      }
     
-     // If length if array is odd -12, -10, -6, -5, -3, 3, 4, 6, 10, 12, 13,15 ,16,18
+     // If length if array is odd 
     else
      {
        var z = Math.floor(n / 2);
